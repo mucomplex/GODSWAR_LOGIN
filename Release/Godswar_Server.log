@@ -1,0 +1,8 @@
+﻿  Godswar_Server.cpp
+  gwcrypt.cpp
+  gwsocket.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 104 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Godswar_Server.vcxproj -> C:\Users\Commando\source\repos\Godswar_Server\Release\Godswar_Server.exe

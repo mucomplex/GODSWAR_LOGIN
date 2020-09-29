@@ -1,0 +1,5 @@
+﻿  gwfunction.cpp
+  gwsocket.cpp
+  Generating Code...
+C:\Users\Commando\source\repos\Godswar_Server\Godswar_Server\gwsocket.cpp(82,22): warning C4018: '<': signed/unsigned mismatch
+  Godswar_Server.vcxproj -> C:\Users\Commando\source\repos\Godswar_Server\Debug\Godswar_Server.exe
